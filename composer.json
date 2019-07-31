@@ -1,0 +1,12 @@
+{
+    "name": "williams/canvas",
+    "authors": [
+        {
+            "name": "williams",
+            "email": "willysantos_lai@yahoo.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.1"
+    }
+}
